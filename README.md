@@ -1,2 +1,2 @@
-# arquitetoPHP
+# Arquiteto PHP
 Arquiteto PHP
